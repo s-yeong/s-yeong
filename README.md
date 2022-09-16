@@ -1,5 +1,3 @@
-### 안녕하세요 이상영입니다.👋
-
 <!--
 **s-yeong/s-yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
