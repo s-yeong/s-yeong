@@ -13,8 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=s-yeong&show_icons=true&hide_border=true)](https://github.com/s-yeong)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-yeong&layout=compact)](https://github.com/s-yeong)
-
 
 
